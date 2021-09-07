@@ -14,7 +14,7 @@ This is a spark-java api that enables one dispay the data from a database in for
 
 Clone this repository to your local machine to get Started
 
-Github: [https://github.com/ArnoldOduma/.git](https://github.com/ArnoldOduma/Hero-Squad.git)
+Github: [https://github.com/Misanthrope555/Organization-API](https://github.com/Misanthrope555/Organization-API.git)
 
 ### Prerequisites
 
