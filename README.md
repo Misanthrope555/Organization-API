@@ -4,22 +4,11 @@ This is a spark-java api that enables one dispay the data from a database in for
 
 ## Author
 
-- **Arnold Oduma**
+- **Edwin Kaburu**
 
-### -_Initial works_-
 
-- [Hero-Squad](https://github.com/ArnoldOduma/hero-squad) - A java and sparkjava framework application for creating heroes and assigning them squads.
-- [Github Search](https://github.com/ArnoldOduma/git-search) - An app to search github users and their repositories
-- [Quotes](https://github.com/ArnoldOduma/quotes) - An app that enables a user create quotes and delete quotes they don't want
-- [Goals](https://github.com/ArnoldOduma/goals-application) - This is an application to create goals and checkout the ones you completed
-- [Pig Dice](https://github.com/ArnoldOduma/Pig-Dice) - This is a simole java script game of pigdice
-- [Delani Studio](https://github.com/ArnoldOduma/Delani_Studio) - A front end of a studio website
-- [Triangle Tracker](https://github.com/ArnoldOduma/triangle-tracker) - Tracks what type a triangle is by checking its length width and height
-- [portfolio](https://github.com/ArnoldOduma/portfolio) - My portfolio website
 
-## Demo
 
-<!-- <img src="./demo.png" width="100%"/> -->
 
 ## Getting Started
 
